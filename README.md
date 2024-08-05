@@ -9,4 +9,3 @@
 
 ➢ Serialización: Avro Schema Registry
 
-➢ .yml extension 
